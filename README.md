@@ -1,2 +1,3 @@
 # Thesis_Program
- Program for thesis 
+ This program calculates dynamic time warping for traffic in the Austin area. 
+
